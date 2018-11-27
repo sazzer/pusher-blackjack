@@ -2,6 +2,8 @@
 
 This is an example of using Pusher Channels and Pusher ChatKit to create a real-time BlackJack game.
 
+This repository is discussed at [Creating a realtime Blackjack game](https://pusher.com/tutorials/blackjack-react-go).
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
